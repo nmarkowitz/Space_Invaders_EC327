@@ -1,12 +1,27 @@
-# ENG_EC327_Project
+# Space Invaders: EC327 Edition
+
 Final project for ENG EC327 Fall 2022
 
-# Team Members
+This is a variation of the classic Space Invaders arcade game 
+
+## Team Members
 
 * Noah Markowitz
 * Ben Hsu
-* Jade Train
+* Jade Tran
 * Arthur Savage
-* Raina
+* Raina Yin
 
-**Mentor: Pranet Sharma**
+__Mentors__
+
+* Pranet Sharma
+* Ashley Rabalais
+
+## Directory contents
+
+* `doc/` - Project documentation
+
+* `src/` - Content to run the program via Unity
+
+* `misc/` - Miscellaneous content including copes of sprites
+

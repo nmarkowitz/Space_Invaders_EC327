@@ -8,7 +8,7 @@ This is a variation of the classic Space Invaders arcade game
 
 * Noah Markowitz
 * Ben Hsu
-* Jade Tran
+* Phuong Tran (Jade)
 * Arthur Savage
 * Raina Yin
 

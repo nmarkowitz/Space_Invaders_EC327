@@ -21,7 +21,10 @@ __Mentors__
 
 * `doc/` - Project documentation
 
-* `src/` - Content to run the program via Unity
+* `src/` - URL to repo with source code
 
 * `misc/` - Miscellaneous content including copes of sprites
 
+## Source Code
+
+All source code to run the game on Unity is found at https://github.com/sportnoah14/Space_Invaders_EC327_Source

@@ -8,7 +8,5 @@ blackboard_docs - Standard documents about the project from Blackboard (learn.bu
 
 3. ProjectDocumenation.docx
 
-4. ProjectTimeline.docx
-
-5. StatementofWork.docx
+4. StatementofWork.docx
 

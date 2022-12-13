@@ -23,13 +23,13 @@ __Mentors__
 
 * `src/` - URL to repo with source code
 
-* `misc/` - Miscellaneous content including copes of sprites
+* `misc/` - Miscellaneous content, including photos of sprites
 
 ## About
 
 This project was created using the [Unity](https://unity.com/) game engine. Sprites are inspired by Professor Densmore and the staff EC327 in Fall 2022.
 
-### Links
+### Inspiration
 
 The following tutorials were helpful in creating this game
 
@@ -41,7 +41,7 @@ The following tutorials were helpful in creating this game
 
 All source code to run the game on Unity is found at https://github.com/sportnoah14/Space_Invaders_EC327_Source
 
-## Instructions to download and play the game:
+## Instructions to Download and Play this Game:
 
 1. Git clone all the files from Space_Invaders_EC327_Source repository from GitHub (link above)
 

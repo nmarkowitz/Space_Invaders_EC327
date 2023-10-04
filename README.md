@@ -43,7 +43,7 @@ All source code to run the game on Unity is found at https://github.com/sportnoa
 
 ## Instructions to Download and Play this Game
 
-1. Git clone all the files from Space_Invaders_EC327_Source repository from GitHub (link above)
+1. Git clone all the files from Space_Invaders_EC327_Source repository from GitHub (link above).
 
 2. Download Unity game engine at https://unity.com/download
 
